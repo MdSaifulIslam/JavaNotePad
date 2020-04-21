@@ -7,7 +7,7 @@ import javax.swing.JTextArea;
 
 /**
  *
- * @author moham
+ * @author mohammad Saiful
  */
 public class JavaNotePad extends JFrame {
 
